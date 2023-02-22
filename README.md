@@ -11,7 +11,7 @@ I am a professional frontend developer 🙌 with a burning passion for web devel
 - 🚀 I’m currently working on [Suiet Wallet](https://github.com/suiet/suiet), which is a top-tier crypto wallet on [Sui](https://sui.io/) blockchain💧
 - 🤿 I’m currently diving into the fancy frontend world, doing fun web and blockchain projects ⭐️
 - 👨🏻‍💻 I’m collaborating with my awesome [Suiet dev team](https://suiet.app/)🥇
-- 📫 How to reach me: sizhe4real@gmail.com
+- 📫 How to reach me: <a href="mailto:sizhe4real@gmail.com">sizhe4real@gmail.com</a> | [twitter@brrruski](https://twitter.com/brrruski)
 - 🔥 Motto: Clean code that works
 - ⚡ Fun fact: I do love rap🎤 and skateboard🛹
 

@@ -8,7 +8,7 @@ This is Sizhe Wang aka Brrruski😎
 
 I am a professional frontend developer 👨🏻‍💻 with a burning passion for web development🔥
 
-- 💼 **I'm Looking for a software internship (2023 Summer/Fall) in the United States**
+- 💼 **I'm doing a software internship (from May to Dec, 2023) in the United States**
 - 🙇🏻 I'm pursuing my Master of Computer Engineering on Networks and Security at Northeastern University 
 - 🚀 I’m currently working on [Suiet Wallet](https://github.com/suiet/suiet), which is a top-tier crypto wallet on [Sui](https://sui.io/) blockchain💧
 - 🤿 I’m currently diving into the fancy frontend world, doing fun web and blockchain projects ⭐️
